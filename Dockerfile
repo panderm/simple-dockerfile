@@ -1,5 +1,5 @@
 #FROM - Image to start building on.
-FROM registry.redhat.io/ubi8/ubi:8.4
+FROM ubuntu:14.04
 
 #MAINTAINER - Identifies the maintainer of the dockerfile.
 MAINTAINER dummy@gmail.com
